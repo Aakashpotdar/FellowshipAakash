@@ -1,0 +1,14 @@
+C:\Users\AKASH\source\repos\attendance\attendance\obj\Debug\netcoreapp3.1\attendance.csproj.AssemblyReference.cache
+C:\Users\AKASH\source\repos\attendance\attendance\obj\Debug\netcoreapp3.1\attendance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKASH\source\repos\attendance\attendance\obj\Debug\netcoreapp3.1\attendance.AssemblyInfoInputs.cache
+C:\Users\AKASH\source\repos\attendance\attendance\obj\Debug\netcoreapp3.1\attendance.AssemblyInfo.cs
+C:\Users\AKASH\source\repos\attendance\attendance\obj\Debug\netcoreapp3.1\attendance.csproj.CoreCompileInputs.cache
+C:\Users\AKASH\source\repos\attendance\attendance\bin\Debug\netcoreapp3.1\attendance.exe
+C:\Users\AKASH\source\repos\attendance\attendance\bin\Debug\netcoreapp3.1\attendance.deps.json
+C:\Users\AKASH\source\repos\attendance\attendance\bin\Debug\netcoreapp3.1\attendance.runtimeconfig.json
+C:\Users\AKASH\source\repos\attendance\attendance\bin\Debug\netcoreapp3.1\attendance.runtimeconfig.dev.json
+C:\Users\AKASH\source\repos\attendance\attendance\bin\Debug\netcoreapp3.1\attendance.dll
+C:\Users\AKASH\source\repos\attendance\attendance\bin\Debug\netcoreapp3.1\attendance.pdb
+C:\Users\AKASH\source\repos\attendance\attendance\obj\Debug\netcoreapp3.1\attendance.dll
+C:\Users\AKASH\source\repos\attendance\attendance\obj\Debug\netcoreapp3.1\attendance.pdb
+C:\Users\AKASH\source\repos\attendance\attendance\obj\Debug\netcoreapp3.1\attendance.genruntimeconfig.cache
