@@ -1,0 +1,14 @@
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc2_employeeWage\uc2_employeeWage\obj\Debug\netcoreapp3.1\uc2_employeeWage.csproj.AssemblyReference.cache
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc2_employeeWage\uc2_employeeWage\obj\Debug\netcoreapp3.1\uc2_employeeWage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc2_employeeWage\uc2_employeeWage\obj\Debug\netcoreapp3.1\uc2_employeeWage.AssemblyInfoInputs.cache
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc2_employeeWage\uc2_employeeWage\obj\Debug\netcoreapp3.1\uc2_employeeWage.AssemblyInfo.cs
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc2_employeeWage\uc2_employeeWage\obj\Debug\netcoreapp3.1\uc2_employeeWage.csproj.CoreCompileInputs.cache
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc2_employeeWage\uc2_employeeWage\bin\Debug\netcoreapp3.1\uc2_employeeWage.exe
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc2_employeeWage\uc2_employeeWage\bin\Debug\netcoreapp3.1\uc2_employeeWage.deps.json
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc2_employeeWage\uc2_employeeWage\bin\Debug\netcoreapp3.1\uc2_employeeWage.runtimeconfig.json
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc2_employeeWage\uc2_employeeWage\bin\Debug\netcoreapp3.1\uc2_employeeWage.runtimeconfig.dev.json
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc2_employeeWage\uc2_employeeWage\bin\Debug\netcoreapp3.1\uc2_employeeWage.dll
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc2_employeeWage\uc2_employeeWage\bin\Debug\netcoreapp3.1\uc2_employeeWage.pdb
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc2_employeeWage\uc2_employeeWage\obj\Debug\netcoreapp3.1\uc2_employeeWage.dll
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc2_employeeWage\uc2_employeeWage\obj\Debug\netcoreapp3.1\uc2_employeeWage.pdb
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc2_employeeWage\uc2_employeeWage\obj\Debug\netcoreapp3.1\uc2_employeeWage.genruntimeconfig.cache

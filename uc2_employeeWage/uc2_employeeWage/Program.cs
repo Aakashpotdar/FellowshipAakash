@@ -6,7 +6,12 @@ namespace uc2_employeeWage
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int wagePerHr = 20;
+            int workingHr = 8;
+
+            int totalwage = wagePerHr * workingHr;
+
+            Console.WriteLine("total wage to pay "+totalwage);
         }
     }
 }
