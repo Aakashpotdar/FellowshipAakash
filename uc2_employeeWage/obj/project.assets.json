@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AKASH\\source\\repos\\fellowshipprogram\\FellowshipAakash\\demo2\\demo2.csproj",
-      "projectName": "demo2",
-      "projectPath": "C:\\Users\\AKASH\\source\\repos\\fellowshipprogram\\FellowshipAakash\\demo2\\demo2.csproj",
+      "projectUniqueName": "C:\\Users\\AKASH\\source\\repos\\fellowshipprogram\\FellowshipAakash\\uc2_employeeWage\\uc2_employeeWage\\uc2_employeeWage.csproj",
+      "projectName": "uc2_employeeWage",
+      "projectPath": "C:\\Users\\AKASH\\source\\repos\\fellowshipprogram\\FellowshipAakash\\uc2_employeeWage\\uc2_employeeWage\\uc2_employeeWage.csproj",
       "packagesPath": "C:\\Users\\AKASH\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AKASH\\source\\repos\\fellowshipprogram\\FellowshipAakash\\demo2\\obj\\",
+      "outputPath": "C:\\Users\\AKASH\\source\\repos\\fellowshipprogram\\FellowshipAakash\\uc2_employeeWage\\uc2_employeeWage\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AKASH\\AppData\\Roaming\\NuGet\\NuGet.Config",
