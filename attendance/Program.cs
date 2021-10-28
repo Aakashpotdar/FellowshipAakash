@@ -11,7 +11,8 @@ namespace attendance
             Random ran = new Random();
             fullDay fullobj = new fullDay();
             halfdaywage halfobj = new halfdaywage();
-         
+            int workingDay = 20,totalHr=0;
+            while(workingDay!=0 || )
             for (int i = 0; i <= 20; i++)
             {
                 
@@ -23,7 +24,7 @@ namespace attendance
                         Console.WriteLine("on day " + i +" Employe is absent");
                         break;
                     case 1:
-                        totalwage=totalwage+fullobj.fulldayWage();
+                            totalwage =totalwage+fullobj.fulldayWage();
                         break;
                     case 2:
                         totalwage = totalwage + halfobj.halfday();

@@ -11,6 +11,7 @@ namespace attendance
         {
             totalDayWage = 0;
             totalDayWage = (wagePerHr * hour);
+       
             return totalDayWage;
         }
 

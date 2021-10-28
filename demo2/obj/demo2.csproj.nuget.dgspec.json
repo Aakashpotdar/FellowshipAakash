@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AKASH\\source\\repos\\demo2\\demo2\\demo2.csproj": {}
+    "C:\\Users\\AKASH\\source\\repos\\fellowshipprogram\\FellowshipAakash\\demo2\\demo2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AKASH\\source\\repos\\demo2\\demo2\\demo2.csproj": {
+    "C:\\Users\\AKASH\\source\\repos\\fellowshipprogram\\FellowshipAakash\\demo2\\demo2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AKASH\\source\\repos\\demo2\\demo2\\demo2.csproj",
+        "projectUniqueName": "C:\\Users\\AKASH\\source\\repos\\fellowshipprogram\\FellowshipAakash\\demo2\\demo2.csproj",
         "projectName": "demo2",
-        "projectPath": "C:\\Users\\AKASH\\source\\repos\\demo2\\demo2\\demo2.csproj",
+        "projectPath": "C:\\Users\\AKASH\\source\\repos\\fellowshipprogram\\FellowshipAakash\\demo2\\demo2.csproj",
         "packagesPath": "C:\\Users\\AKASH\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AKASH\\source\\repos\\demo2\\demo2\\obj\\",
+        "outputPath": "C:\\Users\\AKASH\\source\\repos\\fellowshipprogram\\FellowshipAakash\\demo2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AKASH\\AppData\\Roaming\\NuGet\\NuGet.Config",
