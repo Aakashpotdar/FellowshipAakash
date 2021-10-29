@@ -1,0 +1,13 @@
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc2_employeeWage\uc3_halfTime\bin\Debug\netcoreapp3.1\uc3_halfTime.exe
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc2_employeeWage\uc3_halfTime\bin\Debug\netcoreapp3.1\uc3_halfTime.deps.json
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc2_employeeWage\uc3_halfTime\bin\Debug\netcoreapp3.1\uc3_halfTime.runtimeconfig.json
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc2_employeeWage\uc3_halfTime\bin\Debug\netcoreapp3.1\uc3_halfTime.runtimeconfig.dev.json
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc2_employeeWage\uc3_halfTime\bin\Debug\netcoreapp3.1\uc3_halfTime.dll
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc2_employeeWage\uc3_halfTime\bin\Debug\netcoreapp3.1\uc3_halfTime.pdb
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc2_employeeWage\uc3_halfTime\obj\Debug\netcoreapp3.1\uc3_halfTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc2_employeeWage\uc3_halfTime\obj\Debug\netcoreapp3.1\uc3_halfTime.AssemblyInfoInputs.cache
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc2_employeeWage\uc3_halfTime\obj\Debug\netcoreapp3.1\uc3_halfTime.AssemblyInfo.cs
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc2_employeeWage\uc3_halfTime\obj\Debug\netcoreapp3.1\uc3_halfTime.csproj.CoreCompileInputs.cache
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc2_employeeWage\uc3_halfTime\obj\Debug\netcoreapp3.1\uc3_halfTime.dll
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc2_employeeWage\uc3_halfTime\obj\Debug\netcoreapp3.1\uc3_halfTime.pdb
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc2_employeeWage\uc3_halfTime\obj\Debug\netcoreapp3.1\uc3_halfTime.genruntimeconfig.cache
