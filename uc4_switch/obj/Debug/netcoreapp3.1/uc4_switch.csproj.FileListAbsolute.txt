@@ -1,0 +1,14 @@
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc4_switch\bin\Debug\netcoreapp3.1\uc4_switch.exe
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc4_switch\bin\Debug\netcoreapp3.1\uc4_switch.deps.json
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc4_switch\bin\Debug\netcoreapp3.1\uc4_switch.runtimeconfig.json
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc4_switch\bin\Debug\netcoreapp3.1\uc4_switch.runtimeconfig.dev.json
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc4_switch\bin\Debug\netcoreapp3.1\uc4_switch.dll
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc4_switch\bin\Debug\netcoreapp3.1\uc4_switch.pdb
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc4_switch\obj\Debug\netcoreapp3.1\uc4_switch.csproj.AssemblyReference.cache
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc4_switch\obj\Debug\netcoreapp3.1\uc4_switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc4_switch\obj\Debug\netcoreapp3.1\uc4_switch.AssemblyInfoInputs.cache
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc4_switch\obj\Debug\netcoreapp3.1\uc4_switch.AssemblyInfo.cs
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc4_switch\obj\Debug\netcoreapp3.1\uc4_switch.csproj.CoreCompileInputs.cache
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc4_switch\obj\Debug\netcoreapp3.1\uc4_switch.dll
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc4_switch\obj\Debug\netcoreapp3.1\uc4_switch.pdb
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc4_switch\obj\Debug\netcoreapp3.1\uc4_switch.genruntimeconfig.cache

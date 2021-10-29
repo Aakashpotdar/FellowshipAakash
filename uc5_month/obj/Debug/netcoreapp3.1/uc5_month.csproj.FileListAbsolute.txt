@@ -1,0 +1,14 @@
+C:\Users\AKASH\source\repos\uc5_month\uc5_month\bin\Debug\netcoreapp3.1\uc5_month.exe
+C:\Users\AKASH\source\repos\uc5_month\uc5_month\bin\Debug\netcoreapp3.1\uc5_month.deps.json
+C:\Users\AKASH\source\repos\uc5_month\uc5_month\bin\Debug\netcoreapp3.1\uc5_month.runtimeconfig.json
+C:\Users\AKASH\source\repos\uc5_month\uc5_month\bin\Debug\netcoreapp3.1\uc5_month.runtimeconfig.dev.json
+C:\Users\AKASH\source\repos\uc5_month\uc5_month\bin\Debug\netcoreapp3.1\uc5_month.dll
+C:\Users\AKASH\source\repos\uc5_month\uc5_month\bin\Debug\netcoreapp3.1\uc5_month.pdb
+C:\Users\AKASH\source\repos\uc5_month\uc5_month\obj\Debug\netcoreapp3.1\uc5_month.csproj.AssemblyReference.cache
+C:\Users\AKASH\source\repos\uc5_month\uc5_month\obj\Debug\netcoreapp3.1\uc5_month.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKASH\source\repos\uc5_month\uc5_month\obj\Debug\netcoreapp3.1\uc5_month.AssemblyInfoInputs.cache
+C:\Users\AKASH\source\repos\uc5_month\uc5_month\obj\Debug\netcoreapp3.1\uc5_month.AssemblyInfo.cs
+C:\Users\AKASH\source\repos\uc5_month\uc5_month\obj\Debug\netcoreapp3.1\uc5_month.csproj.CoreCompileInputs.cache
+C:\Users\AKASH\source\repos\uc5_month\uc5_month\obj\Debug\netcoreapp3.1\uc5_month.dll
+C:\Users\AKASH\source\repos\uc5_month\uc5_month\obj\Debug\netcoreapp3.1\uc5_month.pdb
+C:\Users\AKASH\source\repos\uc5_month\uc5_month\obj\Debug\netcoreapp3.1\uc5_month.genruntimeconfig.cache
