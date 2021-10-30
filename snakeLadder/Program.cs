@@ -9,37 +9,72 @@ namespace snakeLadder
             Random ran = new Random();
             int dai = ran.Next(1,7);
             
-            int position = 0,daiNumberOfTime=0;
+            int positionPlayer1 = 0,positionPlayer2=0,daiNumberOfTime=0, nextMove2=0, nextMove1=0;
 
-            while (position != 100 & position < 101)
+            while ((positionPlayer1 != 100 && positionPlayer1 < 101) && (positionPlayer2 != 100 && positionPlayer2 < 101))
             {
-                int nextMove = ran.Next(3);
-                if (position < 0)
+                if (nextMove2 != 6)
                 {
-                    position = 0;
+                    nextMove1 = ran.Next(3);
                 }
-                switch (nextMove)
+                switch (nextMove1)
                 {
                     case 0://no Move
                         break;
                     case 1://ladder
-                        position = position + dai;
-                        if (position > 100)
+                        positionPlayer1 = positionPlayer1 + dai;
+                        if (positionPlayer1 > 100)
                         {
-                            position = position - dai;
+                            positionPlayer1 = positionPlayer1 - dai;
                         }
                         break;
                     case 2://snake
-                        position = position - dai;
+                        positionPlayer1 = positionPlayer1 - dai;
+                        if (positionPlayer1 < 0)
+                        {
+                            positionPlayer1 = 0;
+                        }
+                        break;
+                }
+                if (nextMove1 != 6)
+                {
+                     nextMove2 = ran.Next(3);
+                }
+                switch (nextMove2)
+                {
+                    case 0://no Move
+                        break;
+                    case 1://ladder
+                        positionPlayer2 = positionPlayer2 + dai;
+                        if (positionPlayer2 > 100)
+                        {
+                            positionPlayer2 = positionPlayer2 - dai;
+                        }
+                        break;
+                    case 2://snake
+                        positionPlayer2 = positionPlayer2 - dai;
+                        if (positionPlayer2 < 0)
+                        {
+                            positionPlayer2 = 0;
+                        }
                         break;
                 }
                 daiNumberOfTime++;
                 Console.WriteLine(daiNumberOfTime);
-                Console.WriteLine(position);
+                Console.WriteLine("player 1 at step :"+positionPlayer1);
+                Console.WriteLine("player 2 at step :"+positionPlayer2);
             }
-            Console.WriteLine("player possition is " + position);
-            Console.WriteLine("dai need to played " + daiNumberOfTime + " times");
 
+            if (positionPlayer1 == 100)
+            {
+                Console.WriteLine("player1 won the game " + positionPlayer1);
+                Console.WriteLine("dai need to played " + daiNumberOfTime + " times");
+            }
+            else
+            {
+                Console.WriteLine("player2 won the game " + positionPlayer2);
+                Console.WriteLine("dai need to played " + daiNumberOfTime + " times");
+            }
         }
     }
 }
