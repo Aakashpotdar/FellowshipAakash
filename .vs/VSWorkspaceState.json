@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\EmployeePresent_",
+    "\\snakeLadder",
+    "\\uc8_multipleCompanies"
   ],
+  "SelectedNode": "\\snakeLadder\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
