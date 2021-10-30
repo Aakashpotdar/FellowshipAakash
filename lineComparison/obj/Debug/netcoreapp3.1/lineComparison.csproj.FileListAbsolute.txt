@@ -1,0 +1,14 @@
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\lineComparison\bin\Debug\netcoreapp3.1\lineComparison.exe
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\lineComparison\bin\Debug\netcoreapp3.1\lineComparison.deps.json
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\lineComparison\bin\Debug\netcoreapp3.1\lineComparison.runtimeconfig.json
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\lineComparison\bin\Debug\netcoreapp3.1\lineComparison.runtimeconfig.dev.json
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\lineComparison\bin\Debug\netcoreapp3.1\lineComparison.dll
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\lineComparison\bin\Debug\netcoreapp3.1\lineComparison.pdb
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\lineComparison\obj\Debug\netcoreapp3.1\lineComparison.csproj.AssemblyReference.cache
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\lineComparison\obj\Debug\netcoreapp3.1\lineComparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\lineComparison\obj\Debug\netcoreapp3.1\lineComparison.AssemblyInfoInputs.cache
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\lineComparison\obj\Debug\netcoreapp3.1\lineComparison.AssemblyInfo.cs
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\lineComparison\obj\Debug\netcoreapp3.1\lineComparison.csproj.CoreCompileInputs.cache
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\lineComparison\obj\Debug\netcoreapp3.1\lineComparison.dll
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\lineComparison\obj\Debug\netcoreapp3.1\lineComparison.pdb
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\lineComparison\obj\Debug\netcoreapp3.1\lineComparison.genruntimeconfig.cache
