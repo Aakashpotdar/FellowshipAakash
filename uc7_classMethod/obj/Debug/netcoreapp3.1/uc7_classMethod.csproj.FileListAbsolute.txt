@@ -1,0 +1,14 @@
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc7_classMethod\bin\Debug\netcoreapp3.1\uc7_classMethod.exe
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc7_classMethod\bin\Debug\netcoreapp3.1\uc7_classMethod.deps.json
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc7_classMethod\bin\Debug\netcoreapp3.1\uc7_classMethod.runtimeconfig.json
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc7_classMethod\bin\Debug\netcoreapp3.1\uc7_classMethod.runtimeconfig.dev.json
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc7_classMethod\bin\Debug\netcoreapp3.1\uc7_classMethod.dll
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc7_classMethod\bin\Debug\netcoreapp3.1\uc7_classMethod.pdb
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc7_classMethod\obj\Debug\netcoreapp3.1\uc7_classMethod.csproj.AssemblyReference.cache
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc7_classMethod\obj\Debug\netcoreapp3.1\uc7_classMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc7_classMethod\obj\Debug\netcoreapp3.1\uc7_classMethod.AssemblyInfoInputs.cache
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc7_classMethod\obj\Debug\netcoreapp3.1\uc7_classMethod.AssemblyInfo.cs
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc7_classMethod\obj\Debug\netcoreapp3.1\uc7_classMethod.csproj.CoreCompileInputs.cache
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc7_classMethod\obj\Debug\netcoreapp3.1\uc7_classMethod.dll
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc7_classMethod\obj\Debug\netcoreapp3.1\uc7_classMethod.pdb
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc7_classMethod\obj\Debug\netcoreapp3.1\uc7_classMethod.genruntimeconfig.cache

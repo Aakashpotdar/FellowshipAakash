@@ -1,0 +1,14 @@
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc8_multipleCompanies\bin\Debug\netcoreapp3.1\uc8_multipleCompanies.exe
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc8_multipleCompanies\bin\Debug\netcoreapp3.1\uc8_multipleCompanies.deps.json
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc8_multipleCompanies\bin\Debug\netcoreapp3.1\uc8_multipleCompanies.runtimeconfig.json
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc8_multipleCompanies\bin\Debug\netcoreapp3.1\uc8_multipleCompanies.runtimeconfig.dev.json
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc8_multipleCompanies\bin\Debug\netcoreapp3.1\uc8_multipleCompanies.dll
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc8_multipleCompanies\bin\Debug\netcoreapp3.1\uc8_multipleCompanies.pdb
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc8_multipleCompanies\obj\Debug\netcoreapp3.1\uc8_multipleCompanies.csproj.AssemblyReference.cache
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc8_multipleCompanies\obj\Debug\netcoreapp3.1\uc8_multipleCompanies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc8_multipleCompanies\obj\Debug\netcoreapp3.1\uc8_multipleCompanies.AssemblyInfoInputs.cache
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc8_multipleCompanies\obj\Debug\netcoreapp3.1\uc8_multipleCompanies.AssemblyInfo.cs
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc8_multipleCompanies\obj\Debug\netcoreapp3.1\uc8_multipleCompanies.csproj.CoreCompileInputs.cache
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc8_multipleCompanies\obj\Debug\netcoreapp3.1\uc8_multipleCompanies.dll
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc8_multipleCompanies\obj\Debug\netcoreapp3.1\uc8_multipleCompanies.pdb
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc8_multipleCompanies\obj\Debug\netcoreapp3.1\uc8_multipleCompanies.genruntimeconfig.cache

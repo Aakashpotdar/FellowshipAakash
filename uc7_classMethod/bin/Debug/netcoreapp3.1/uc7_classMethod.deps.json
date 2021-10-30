@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "uc7_classMethod/1.0.0": {
+        "runtime": {
+          "uc7_classMethod.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "uc7_classMethod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
