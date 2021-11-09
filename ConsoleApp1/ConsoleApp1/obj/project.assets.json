@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AKASH\\source\\repos\\fellowshipprogram\\FellowshipAakash\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\AKASH\\source\\repos\\fellowshipprogram\\FellowshipAakash\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\AKASH\\source\\repos\\fellowshipprogram\\FellowshipAakash\\ConsoleApp1\\ConsoleApp1\\uc10_interface.csproj",
+      "projectName": "uc10_interface",
+      "projectPath": "C:\\Users\\AKASH\\source\\repos\\fellowshipprogram\\FellowshipAakash\\ConsoleApp1\\ConsoleApp1\\uc10_interface.csproj",
       "packagesPath": "C:\\Users\\AKASH\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\AKASH\\source\\repos\\fellowshipprogram\\FellowshipAakash\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
