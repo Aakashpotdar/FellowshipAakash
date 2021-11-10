@@ -1,0 +1,14 @@
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc14_all\bin\Debug\netcoreapp3.1\uc14_all.exe
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc14_all\bin\Debug\netcoreapp3.1\uc14_all.deps.json
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc14_all\bin\Debug\netcoreapp3.1\uc14_all.runtimeconfig.json
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc14_all\bin\Debug\netcoreapp3.1\uc14_all.runtimeconfig.dev.json
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc14_all\bin\Debug\netcoreapp3.1\uc14_all.dll
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc14_all\bin\Debug\netcoreapp3.1\uc14_all.pdb
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc14_all\obj\Debug\netcoreapp3.1\uc14_all.csproj.AssemblyReference.cache
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc14_all\obj\Debug\netcoreapp3.1\uc14_all.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc14_all\obj\Debug\netcoreapp3.1\uc14_all.AssemblyInfoInputs.cache
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc14_all\obj\Debug\netcoreapp3.1\uc14_all.AssemblyInfo.cs
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc14_all\obj\Debug\netcoreapp3.1\uc14_all.csproj.CoreCompileInputs.cache
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc14_all\obj\Debug\netcoreapp3.1\uc14_all.dll
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc14_all\obj\Debug\netcoreapp3.1\uc14_all.pdb
+C:\Users\AKASH\source\repos\fellowshipprogram\FellowshipAakash\uc14_all\obj\Debug\netcoreapp3.1\uc14_all.genruntimeconfig.cache
