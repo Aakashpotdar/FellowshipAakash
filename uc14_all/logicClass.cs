@@ -4,7 +4,7 @@ using System.Text;
 
 namespace uc14_all
 {
-    class logicClass:toShow
+    class logicClass:IShowWage
     {
           public int calculateWage(int wagePerHr, string componyName,int totalWorkingDay,int totalWorkingHour)
           {

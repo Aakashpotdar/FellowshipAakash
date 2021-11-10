@@ -4,7 +4,7 @@ using System.Text;
 
 namespace uc14_all
 {
-    interface toShow
+    interface IShowWage
     {
         public int calculateWage(int wagePerHr, string componyName, int totalWorkingDay, int totalWorkingHour);
     }
